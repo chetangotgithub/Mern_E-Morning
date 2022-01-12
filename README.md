@@ -3,13 +3,13 @@ Mern stact project with News Weather and Notes
 Nowadays Application is developed for one need, If we want to know more information at one time it is hard to find such application. The project addresses the issue by developing a Full-stack web development-based website that has 3 in one applications. Website is developed to have top news Weather info and store notes unique to the individual. 
 The Website is developed by MERN stack technology. The database used is MongoDB which is the best no SQL database used by many developers. Website is developed over the app which skips the need to download and only needs a WIFI connection. 
 
-1.Daily News 
+1.Daily News
 Check today’s news by selecting your preferred country and category from the list. Click the button and enter the report
 
-2.Check Weather 
+2.Check Weather
 Weather forecast for today and the next 4 days. Just Type the Name of the city to know its weather. Also, enjoy background image that changes on reload   
 
-3.Add your Sticky notes 
+3.Add your Sticky notes
 These notes are only seen by you you just need to sign up and sign into the app. You can add delete and update notes whenever required 
 
 
