@@ -1,0 +1,52 @@
+body {
+  background-image: url("../images/trees.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.heading {
+  width: 1000px;
+  text-align: justify;
+  padding-top: 170px;
+}
+.title {
+  font-size: 20px;
+  color: rgb(82, 82, 75);
+}
+.desc {
+  font-size: 70px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(3, 39, 26);
+  padding-bottom: 20px;
+}
+.but {
+  display: flex;
+  justify-items: center;
+  justify-content: space-between;
+  width: 500px;
+}
+.btn123 {
+  padding: 10px;
+  text-decoration: none;
+  border: 2px solid rgb(3, 39, 26);
+  background-color: rgba(53, 56, 50, 0.5);
+  color: aliceblue;
+  font-family: monospace;
+}
+.btn123:hover {
+  background-color: rgba(155, 233, 10, 0.8);
+  border: 2px solid rgb(2, 56, 20);
+  color: rgb(2, 56, 20);
+  animation: onhover 1s;
+}
+@keyframes onhover {
+  from {
+    border: 2px solid rgb(3, 39, 26);
+    background-color: rgba(53, 56, 50, 0.5);
+    color: aliceblue;
+  }
+  to {
+    background-color: rgba(155, 233, 10, 0.8);
+    border: 2px solid rgb(2, 56, 20);
+    color: rgb(2, 56, 20);
+  }
+}

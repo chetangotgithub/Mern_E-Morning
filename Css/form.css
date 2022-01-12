@@ -1,0 +1,52 @@
+.new {
+  display: flex;
+  justify-content: space-around;
+  height: 50vh;
+  justify-items: center;
+}
+
+.back {
+  display: block;
+  margin-top: 160px;
+  padding-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border: 2px solid black;
+  background-color: rgba(128, 112, 112, 0.5);
+}
+.back1 {
+  display: block;
+  padding: 50px;
+  margin-top: 140px;
+  padding-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border: 2px solid black;
+  background-color: rgba(128, 112, 112, 0.5);
+}
+#SignIn {
+  margin-top: 20px;
+  width: 660px;
+}
+#SignIn input {
+  border-radius: 30px;
+}
+#SignUp input {
+  border-radius: 30px;
+}
+#SignInHeader {
+  color: aliceblue;
+  text-align: center;
+  size: 45px;
+}
+#SignUp {
+  margin-top: 20px;
+  margin-left: 206px;
+  width: 660px;
+}
+
+#SignUpHeader {
+  color: white;
+  text-align: center;
+  size: 45px;
+}
